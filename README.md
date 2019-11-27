@@ -5,30 +5,33 @@ PyTorch deep learning project made easy.
 
 <!-- code_chunk_output -->
 
-* [PyTorch Template Project](#pytorch-template-project)
-	* [Requirements](#requirements)
-	* [Features](#features)
-	* [Folder Structure](#folder-structure)
-	* [Usage](#usage)
-		* [Config file format](#config-file-format)
-		* [Using config files](#using-config-files)
-		* [Resuming from checkpoints](#resuming-from-checkpoints)
-    * [Using Multiple GPU](#using-multiple-gpu)
-	* [Customization](#customization)
-		* [Custom CLI options](#custom-cli-options)
-		* [Data Loader](#data-loader)
-		* [Trainer](#trainer)
-		* [Model](#model)
-		* [Loss and metrics](#loss-and-metrics)
-			* [Multiple metrics](#multiple-metrics)
-		* [Additional logging](#additional-logging)
-		* [Validation data](#validation-data)
-		* [Checkpoints](#checkpoints)
-    * [Tensorboard Visualization](#tensorboard-visualization)
-	* [Contribution](#contribution)
-	* [TODOs](#todos)
-	* [License](#license)
-	* [Acknowledgements](#acknowledgments)
+- [PyTorch Template Project](#pytorch-template-project)
+  - [Requirements](#requirements)
+  - [Features](#features)
+  - [Folder Structure](#folder-structure)
+  - [Usage](#usage)
+    - [Config file format](#config-file-format)
+    - [Using config files](#using-config-files)
+    - [Resuming from checkpoints](#resuming-from-checkpoints)
+    - [Using Multiple GPU](#using-multiple-gpu)
+  - [Customization](#customization)
+    - [Project initialization](#project-initialization)
+    - [Custom CLI options](#custom-cli-options)
+    - [Data Loader](#data-loader)
+    - [Trainer](#trainer)
+    - [Model](#model)
+    - [Loss](#loss)
+      - [Metrics](#metrics)
+    - [Additional logging](#additional-logging)
+    - [Testing](#testing)
+    - [Validation data](#validation-data)
+    - [Checkpoints](#checkpoints)
+    - [Tensorboard Visualization](#tensorboard-visualization)
+  - [Contribution](#contribution)
+  - [TODOs](#todos)
+  - [License](#license)
+  - [Acknowledgements](#acknowledgements)
+  - [Own Added Module](#own-added-module)
 
 <!-- /code_chunk_output -->
 
@@ -376,3 +379,6 @@ This project is licensed under the MIT License. See  LICENSE for more details
 
 ## Acknowledgements
 This project is inspired by the project [Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template) by [Mahmoud Gemy](https://github.com/MrGemy95)
+
+## Own Added Module
+This Module is responsible for my own added module.
