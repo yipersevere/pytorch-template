@@ -90,9 +90,12 @@ PyTorch deep learning project made easy.
   │   ├── logger.py
   │   └── logger_config.json
   │  
-  └── utils/ - small utility functions
-      ├── util.py
-      └── ...
+  |└── utils/ - small utility functions
+  |    ├── util.py
+  |    └── ...
+  ├── experiments-result-analysis  
+  |   ├── readme.md - experiment analysis template  
+  |   ├── [date]-[branchname]-[commitid].md - each running experiments result analysis
   ```
 
 ## Usage
